@@ -1,0 +1,46 @@
+.full-width {
+    width: 100%;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    background-color: #A52A2A;
+}
+
+.center {
+    margin: auto;
+    width: 30%;
+    padding: 10px;
+}
+
+.center-img {
+    display: block;
+    margin: 0 auto;
+}
+
+.car1 {
+    border-style: dashed;
+}
+
+.car2 {
+    border-style: dashed;
+}
+
+.car3 {
+    border-style: dashed;
+}
+
+.car4 {
+    border-style: dashed;
+}
+
+.car5 {
+    border-style: dashed;
+}
+
+.footer {
+    color: white;
+    text-align: center;
+    background-color: black;
+}
